@@ -52,5 +52,5 @@ This project applies machine learning algorithms to predict the best crop choice
 
 ```bash
 git clone https://github.com/shubhangi115/Crop_Recomendation.git
-cd your-repo-name
+cd Crop_Recomendation
 # Run the notebook or Python script
