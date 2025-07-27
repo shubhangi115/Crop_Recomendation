@@ -28,7 +28,7 @@ This project uses machine learning models to predict the most suitable crop to g
 
 ---
 
-## ⚙️ Models Used
+## Models Used
 
 - Random Forest Classifier (`Best Accuracy`)
 - Decision Tree Classifier
@@ -36,7 +36,7 @@ This project uses machine learning models to predict the most suitable crop to g
 
 ---
 
-## 📈 Model Evaluation
+## Model Evaluation
 
 - **Train-Test Split:** 80-20
 - **Best Accuracy (Random Forest):**  
@@ -48,7 +48,7 @@ This project uses machine learning models to predict the most suitable crop to g
 
 ---
 
-## 🧪 How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/shubhangi115/Crop_Recomendation.git
