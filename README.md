@@ -1,6 +1,6 @@
 # Crop Prediction Using Machine Learning
 
-This project uses machine learning models to predict the most suitable crop to grow based on soil characteristics. It includes models like **Random Forest**, **K-Nearest Neighbors**, and **Decision Tree**, with cross-validation and performance evaluation.
+This project applies machine learning algorithms to predict the best crop choice based on soil characteristics. The employed models are **Random Forest**, **K-Nearest Neighbors**, and **Decision Tree**, and cross-validation and performance evaluation.
 
 ---
 
@@ -14,7 +14,7 @@ This project uses machine learning models to predict the most suitable crop to g
   - Humidity
   - pH
   - Rainfall
-- The target variable is the **crop label** (encoded as numbers from 0 to 19).
+- Target variable is the **crop label** (numerically encoded between 0 and 19).
 
 ---
 
@@ -30,7 +30,7 @@ This project uses machine learning models to predict the most suitable crop to g
 
 ## Models Used
 
-- Random Forest Classifier (`Best Accuracy`)
+- Random Forest Classifier (Highest Accuracy)
 - Decision Tree Classifier
 - K-Nearest Neighbors
 
@@ -38,9 +38,9 @@ This project uses machine learning models to predict the most suitable crop to g
 
 ## Model Evaluation
 
-- **Train-Test Split:** 80-20
-- **Best Accuracy (Random Forest):**  
-  - Accuracy: `98.24%`
+- - **Train-Test Split:** 80-20
+- **Highest Accuracy (Random Forest):**
+- Accuracy: `98.24%`
 - **Metrics Used:**
   - Accuracy Score
   - Classification Report
