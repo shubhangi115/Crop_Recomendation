@@ -38,7 +38,7 @@ This project applies machine learning algorithms to predict the best crop choice
 
 ## Model Evaluation
 
-- - **Train-Test Split:** 80-20
+- **Train-Test Split:** 80-20
 - **Highest Accuracy (Random Forest):**
 - Accuracy: `98.24%`
 - **Metrics Used:**
